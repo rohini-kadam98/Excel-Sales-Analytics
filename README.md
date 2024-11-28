@@ -14,9 +14,9 @@ Welcome to the Excel Sales Analytics Project repository! This project focuses on
 
 - **Project objective:** 
 
-   **1.** Create Profit and Loss (P&L) reports by _[Fiscal Year]
+   **1.** Create Profit and Loss (P&L) reports by Fiscal Year and Fiscal Month.
 
-   **2.** Create Profit and Loss (P&L) reports by _[Markets]_
+   **2.** Create Profit and Loss (P&L) reports by Markets.
 
 - **Purpose of sales analytics:** Evaluation of financial performance, support decision-making, and facilitate communication with stakeholders.
 
