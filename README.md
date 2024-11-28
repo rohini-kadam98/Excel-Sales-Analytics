@@ -1,6 +1,6 @@
 Welcome to the Excel Sales Analytics Project repository! This project focuses on analyzing sales data using Microsoft Excel. The dataset consist of various factors related to customers and their purchasing behavior.
 
-- **1.** Customer performance report : The created customer performance report provides insights. It highlights key trends to help businesses optimize customer relationships and target high-value segments effectively.
+- **1.** Customer performance report https://github.com/rohini-kadam98/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf : The created customer performance report provides insights. It highlights key trends to help businesses optimize customer relationships and target high-value segments effectively.
 
 - **2.** Market performance and sales targets (https://github.com/rohini-kadam98/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) : Market performance evaluates how well a company is performing. Sales targets set specific revenue or volume goals, helping to align sales efforts and measure progress toward achieving business objectives.
 
