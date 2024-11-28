@@ -2,7 +2,7 @@ Welcome to the Excel Sales Analytics Project repository! This project focuses on
 
 - **1.** Customer performance report : The created customer performance report provides insights. It highlights key trends to help businesses optimize customer relationships and target high-value segments effectively.
 
-- **2.** Market performance and sales targets : Market performance evaluates how well a company is performing. Sales targets set specific revenue or volume goals, helping to align sales efforts and measure progress toward achieving business objectives.
+- **2.** Market performance and sales targets (https://github.com/rohini-kadam98/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf) : Market performance evaluates how well a company is performing. Sales targets set specific revenue or volume goals, helping to align sales efforts and measure progress toward achieving business objectives.
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance. Sales analytics helps businesses understand sales performance, identify trends, forecast future sales, and make data-driven decisions to improve revenue, optimize strategies, and enhance customer satisfaction.
 
